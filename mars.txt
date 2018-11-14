@@ -3,5 +3,6 @@ Line 2
 Line 3
 Line 4
 Line 5
-Line 6
+Au lieu de la ligne 6, j introduis ce conflit
 Line 7
+Et aussi une ligne supplémentaire
