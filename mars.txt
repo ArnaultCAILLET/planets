@@ -3,6 +3,6 @@ Line 2
 Line 3
 Line 4
 Line 5
-Au lieu de la ligne 6 qui était 6, j introduis ce conflit et puis ce conflit
-Line 7
+Au lieu de la ligne 6 qui était 6, j introduis ce conflit et puis ce conflit mais pas ce conflit
+Line 7et je garde la suite
 Et aussi une ligne supplémentaire là
