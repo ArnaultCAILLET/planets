@@ -1,8 +1,8 @@
-Cold and dry, but everything is my favorite color
+﻿Cold and dry, but everything is my favorite color
 Line 2
 Line 3
 Line 4
 Line 5
-Au lieu de la ligne 6, j introduis ce conflit
+Au lieu de la ligne 6 qui était 6, j introduis ce conflit et puis ce conflit
 Line 7
-Et aussi une ligne supplémentaire
+Et aussi une ligne supplémentaire là
