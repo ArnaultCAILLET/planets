@@ -1,4 +1,5 @@
+astres/
+
 *.dat
 results/
 .gitignore.save
-astres/
